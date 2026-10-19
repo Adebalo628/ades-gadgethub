@@ -1,0 +1,3 @@
+# Admin credentials — guarded by Render secrets / access-code env var
+admin-account.json
+admin-secret.txt

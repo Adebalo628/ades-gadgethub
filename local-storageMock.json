@@ -1,0 +1,552 @@
+{
+  "v": 2,
+  "phones": [
+    {
+      "id": "iphone-17-pro-max",
+      "name": "iPhone 17 Pro Max",
+      "brand": "Apple",
+      "chip": "A19 Pro",
+      "rating": 4.9,
+      "reviews": 128,
+      "isNew": true,
+      "colors": [
+        "Desert Titanium",
+        "Silver Titanium",
+        "Black Titanium"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 2150000,
+          "old": 2290000
+        },
+        {
+          "label": "512GB",
+          "price": 2450000
+        },
+        {
+          "label": "1TB",
+          "price": 2780000
+        }
+      ],
+      "specs": {
+        "Display": "6.9\" Super Retina XDR, 120Hz",
+        "Chip": "A19 Pro",
+        "Camera": "48MP triple (5x zoom)",
+        "Battery": "Up to 33h video",
+        "SIM": "Dual eSIM"
+      },
+      "img": "img/iphone-17-pro-max.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c98a4b%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%235a3a24%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3E17%20Pro%20Max%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "iphone-16-pro",
+      "name": "iPhone 16 Pro",
+      "brand": "Apple",
+      "chip": "A18 Pro",
+      "rating": 4.9,
+      "reviews": 96,
+      "hot": true,
+      "colors": [
+        "Desert Titanium",
+        "Natural Titanium",
+        "White Titanium"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 1750000,
+          "old": 1890000
+        },
+        {
+          "label": "256GB",
+          "price": 1980000
+        },
+        {
+          "label": "512GB",
+          "price": 2320000
+        }
+      ],
+      "specs": {
+        "Display": "6.3\" Super Retina XDR, 120Hz",
+        "Chip": "A18 Pro",
+        "Camera": "48MP fusion + 5x zoom",
+        "Battery": "Up to 27h video",
+        "SIM": "Dual eSIM"
+      },
+      "img": "img/iphone-16-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23b58a5e%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%234a3526%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3E16%20Pro%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "iphone-15",
+      "name": "iPhone 15",
+      "brand": "Apple",
+      "chip": "A16 Bionic",
+      "rating": 4.8,
+      "reviews": 210,
+      "colors": [
+        "Blue",
+        "Black",
+        "Green",
+        "Yellow",
+        "Pink"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 980000,
+          "old": 1050000
+        },
+        {
+          "label": "256GB",
+          "price": 1150000
+        }
+      ],
+      "specs": {
+        "Display": "6.1\" Super Retina XDR",
+        "Chip": "A16 Bionic",
+        "Camera": "48MP dual camera",
+        "Battery": "Up to 20h video",
+        "SIM": "Nano + eSIM"
+      },
+      "img": "img/iphone-15.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23a7c7dc%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%234a7691%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3E15%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "iphone-14",
+      "name": "iPhone 14",
+      "brand": "Apple",
+      "chip": "A15 Bionic",
+      "rating": 4.7,
+      "reviews": 184,
+      "colors": [
+        "Midnight",
+        "Starlight",
+        "Blue",
+        "Purple"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 720000,
+          "old": 799000
+        },
+        {
+          "label": "256GB",
+          "price": 850000
+        }
+      ],
+      "specs": {
+        "Display": "6.1\" Super Retina XDR",
+        "Chip": "A15 Bionic",
+        "Camera": "12MP dual camera",
+        "Battery": "Up to 20h video",
+        "SIM": "Nano + eSIM"
+      },
+      "img": "img/iphone-14.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235a6f9e%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232c3a58%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3E14%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "galaxy-s25-ultra",
+      "name": "Galaxy S25 Ultra",
+      "brand": "Samsung",
+      "chip": "Snapdragon 8 Elite",
+      "rating": 4.9,
+      "reviews": 87,
+      "hot": true,
+      "colors": [
+        "Titanium Gray",
+        "Titanium Black",
+        "Titanium Blue"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 1875000,
+          "old": 1990000
+        },
+        {
+          "label": "512GB",
+          "price": 2090000
+        },
+        {
+          "label": "1TB",
+          "price": 2380000
+        }
+      ],
+      "specs": {
+        "Display": "6.9\" QHD+ AMOLED 120Hz",
+        "Chip": "Snapdragon 8 Elite",
+        "Camera": "200MP + 50MP periscope",
+        "Battery": "5,000mAh · 45W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/galaxy-s25-ultra.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%238f9bb3%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%233c4557%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3ES25%20Ultra%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "galaxy-a56",
+      "name": "Galaxy A56 5G",
+      "brand": "Samsung",
+      "chip": "Exynos 1580",
+      "rating": 4.7,
+      "reviews": 143,
+      "isNew": true,
+      "colors": [
+        "Awesome Graphite",
+        "Awesome Olive",
+        "Awesome Lavender"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 545000
+        },
+        {
+          "label": "256GB",
+          "price": 620000
+        }
+      ],
+      "specs": {
+        "Display": "6.7\" Super AMOLED 120Hz",
+        "Chip": "Exynos 1580",
+        "Camera": "50MP OIS triple",
+        "Battery": "5,000mAh · 45W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/galaxy-a56.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%236f7686%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%232f3542%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3EA56%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "galaxy-a16",
+      "name": "Galaxy A16",
+      "brand": "Samsung",
+      "chip": "Helio G99",
+      "rating": 4.5,
+      "reviews": 260,
+      "colors": [
+        "Blue Black",
+        "Light Green",
+        "Light Gray"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 245000,
+          "old": 268000
+        }
+      ],
+      "specs": {
+        "Display": "6.7\" Super AMOLED 90Hz",
+        "Chip": "Helio G99",
+        "Camera": "50MP triple",
+        "Battery": "5,000mAh · 25W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/galaxy-a16.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233f5878%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231e2a3c%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3EA16%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "pixel-9-pro",
+      "name": "Google Pixel 9 Pro",
+      "brand": "Google",
+      "chip": "Tensor G4",
+      "rating": 4.8,
+      "reviews": 64,
+      "colors": [
+        "Obsidian",
+        "Porcelain",
+        "Hazel"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 1380000
+        },
+        {
+          "label": "256GB",
+          "price": 1550000,
+          "old": 1620000
+        },
+        {
+          "label": "512GB",
+          "price": 1780000
+        }
+      ],
+      "specs": {
+        "Display": "6.3\" Super Actua 120Hz",
+        "Chip": "Tensor G4",
+        "Camera": "50MP triple · 42MP selfie",
+        "Battery": "4,700mAh · 27W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/pixel-9-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23c9c2b6%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%236b665c%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3EPixel%209%20Pro%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "xiaomi-14t-pro",
+      "name": "Xiaomi 14T Pro",
+      "brand": "Xiaomi",
+      "chip": "Dimensity 9300+",
+      "rating": 4.7,
+      "reviews": 58,
+      "hot": true,
+      "colors": [
+        "Titan Gray",
+        "Titan Blue",
+        "Titan Black"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 845000
+        },
+        {
+          "label": "512GB",
+          "price": 935000,
+          "old": 999000
+        }
+      ],
+      "specs": {
+        "Display": "6.67\" AMOLED 144Hz",
+        "Chip": "Dimensity 9300+",
+        "Camera": "50MP Leica triple",
+        "Battery": "5,000mAh · 120W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/xiaomi-14t-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%235c6470%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23252a33%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3E14T%20Pro%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "redmi-note-14-pro",
+      "name": "Redmi Note 14 Pro",
+      "brand": "Xiaomi",
+      "chip": "Helio G100",
+      "rating": 4.6,
+      "reviews": 312,
+      "colors": [
+        "Midnight Black",
+        "Ocean Blue",
+        "Lavender Purple"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 352000
+        },
+        {
+          "label": "256GB",
+          "price": 420000,
+          "old": 455000
+        }
+      ],
+      "specs": {
+        "Display": "6.67\" AMOLED 120Hz",
+        "Chip": "Helio G100",
+        "Camera": "200MP OIS main",
+        "Battery": "5,110mAh · 45W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/redmi-note-14-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%237a5cb0%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2333244d%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3ENote%2014%20Pro%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "tecno-camon-40-pro",
+      "name": "Tecno Camon 40 Pro",
+      "brand": "Tecno",
+      "chip": "Dimensity 7300",
+      "rating": 4.6,
+      "reviews": 198,
+      "colors": [
+        "Ink Black",
+        "Lake Blue",
+        "Snow White"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 395000,
+          "old": 425000
+        }
+      ],
+      "specs": {
+        "Display": "6.78\" AMOLED 120Hz",
+        "Chip": "Dimensity 7300",
+        "Camera": "50MP OIS + 50MP selfie",
+        "Battery": "5,200mAh · 45W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/tecno-camon-40-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232f4f46%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23152521%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3ECamon%2040%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "tecno-spark-30-pro",
+      "name": "Tecno Spark 30 Pro",
+      "brand": "Tecno",
+      "chip": "Helio G100",
+      "rating": 4.5,
+      "reviews": 176,
+      "colors": [
+        "Ink Black",
+        "Winter Blue",
+        "Savage Sea"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 245000,
+          "old": 265000
+        }
+      ],
+      "specs": {
+        "Display": "6.78\" LCD 120Hz",
+        "Chip": "Helio G100",
+        "Camera": "108MP main",
+        "Battery": "5,000mAh · 33W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/tecno-spark-30-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232a3b52%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23111a26%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3ESpark%2030%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "infinix-note-40-pro",
+      "name": "Infinix Note 40 Pro",
+      "brand": "Infinix",
+      "chip": "Helio G99",
+      "rating": 4.5,
+      "reviews": 154,
+      "colors": [
+        "Vintage Green",
+        "Titan Gold",
+        "Obsidian Black"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 405000,
+          "old": 438000
+        }
+      ],
+      "specs": {
+        "Display": "6.78\" AMOLED 120Hz",
+        "Chip": "Helio G99",
+        "Camera": "108MP OIS main",
+        "Battery": "5,000mAh · 70W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/infinix-note-40-pro.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233d5a45%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231a2a1f%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3ENote%2040%20Pro%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "itel-s25",
+      "name": "itel S25",
+      "brand": "itel",
+      "chip": "Unisoc T620",
+      "rating": 4.4,
+      "reviews": 221,
+      "colors": [
+        "Ink Black",
+        "Misty Blue",
+        "Sandy Beach"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 205000,
+          "old": 219000
+        }
+      ],
+      "specs": {
+        "Display": "6.6\" HD+ 90Hz",
+        "Chip": "Unisoc T620",
+        "Camera": "50MP dual",
+        "Battery": "5,000mAh · 18W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/itel-s25.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%234a4f5a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%231d2027%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3ES25%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "oneplus-13",
+      "name": "OnePlus 13",
+      "brand": "OnePlus",
+      "chip": "Snapdragon 8 Elite",
+      "rating": 4.8,
+      "reviews": 72,
+      "isNew": true,
+      "colors": [
+        "Midnight Ocean",
+        "Arctic Dawn",
+        "Obsidian"
+      ],
+      "variants": [
+        {
+          "label": "256GB",
+          "price": 1450000,
+          "old": 1520000
+        },
+        {
+          "label": "512GB",
+          "price": 1660000
+        }
+      ],
+      "specs": {
+        "Display": "6.82\" 2K ProXDR 120Hz",
+        "Chip": "Snapdragon 8 Elite",
+        "Camera": "50MP Hasselblad triple",
+        "Battery": "6,000mAh · 100W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/oneplus-13.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%2324425c%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%230f1d29%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3E13%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    },
+    {
+      "id": "realme-c75",
+      "name": "realme C75",
+      "brand": "realme",
+      "chip": "Unisoc T7250",
+      "rating": 4.4,
+      "reviews": 137,
+      "colors": [
+        "Moonlight Blue",
+        "Starry Black"
+      ],
+      "variants": [
+        {
+          "label": "128GB",
+          "price": 275000,
+          "old": 295000
+        }
+      ],
+      "specs": {
+        "Display": "6.72\" HD+ 90Hz",
+        "Chip": "Unisoc T7250",
+        "Camera": "50MP dual",
+        "Battery": "6,000mAh · 45W",
+        "SIM": "Dual SIM"
+      },
+      "img": "img/realme-c75.jpg",
+      "art": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20300%20460%22%3E%0A%3Cdefs%3E%0A%3ClinearGradient%20id%3D%22s%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%232e5b7a%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23122633%22%2F%3E%3C%2FlinearGradient%3E%0A%3ClinearGradient%20id%3D%22b%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%220%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%233a4152%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%2314181f%22%2F%3E%3C%2FlinearGradient%3E%0A%3CradialGradient%20id%3D%22g%22%20cx%3D%22.28%22%20cy%3D%22.18%22%20r%3D%221%22%3E%3Cstop%20offset%3D%220%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%22.26%22%2F%3E%3Cstop%20offset%3D%221%22%20stop-color%3D%22%23fff%22%20stop-opacity%3D%220%22%2F%3E%3C%2FradialGradient%3E%0A%3C%2Fdefs%3E%0A%3Crect%20x%3D%2218%22%20y%3D%228%22%20width%3D%22264%22%20height%3D%22444%22%20rx%3D%2244%22%20fill%3D%22url(%23b)%22%20stroke%3D%22%234a5266%22%20stroke-width%3D%222%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23s)%22%2F%3E%0A%3Crect%20x%3D%2229%22%20y%3D%2219%22%20width%3D%22242%22%20height%3D%22422%22%20rx%3D%2235%22%20fill%3D%22url(%23g)%22%2F%3E%0A%3Crect%20x%3D%22104%22%20y%3D%2233%22%20width%3D%2292%22%20height%3D%2226%22%20rx%3D%2213%22%20fill%3D%22%230a0c11%22%2F%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22236%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2234%22%20font-weight%3D%22800%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.96%22%3EC75%3C%2Ftext%3E%0A%3Ctext%20x%3D%22150%22%20y%3D%22266%22%20font-family%3D%22Arial%2CHelvetica%2Csans-serif%22%20font-size%3D%2212%22%20letter-spacing%3D%224%22%20text-anchor%3D%22middle%22%20fill%3D%22%23ffffff%22%20opacity%3D%22.62%22%3EADE'S%20GADGET%3C%2Ftext%3E%0A%3Crect%20x%3D%22118%22%20y%3D%22418%22%20width%3D%2264%22%20height%3D%226%22%20rx%3D%223%22%20fill%3D%22%23fff%22%20opacity%3D%22.45%22%2F%3E%0A%3C%2Fsvg%3E"
+    }
+  ],
+  "hero": "img/iphone-17-pro-max.jpg",
+  "promos": {
+    "ADE10": {
+      "type": "pct",
+      "value": 10,
+      "cap": 50000,
+      "label": "10% off"
+    },
+    "TECH5": {
+      "type": "flat",
+      "value": 5000,
+      "min": 200000,
+      "label": "₦5,000 off"
+    },
+    "FREESHIP": {
+      "type": "ship",
+      "value": 0,
+      "label": "Free delivery"
+    }
+  }
+}
